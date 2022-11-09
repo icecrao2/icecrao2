@@ -3,7 +3,7 @@
 👋Hi there I'm **front-end developer** using an React and Javascript🌱
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-React-green />
+<img src="https://img.shields.io/badge/React-React-green?style=flat-square&logo=Android&logoColor=white" />
 
 
 <!--
