@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome to Jaewoong's github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text="Welcome!"&fontSize=90" />
 
 👋Hi there I'm **front-end developer** using an React and Javascript🌱
 sometimes I develope back-end(express, next, spring boot...) and mobile application(android studio, kotlin) but i love to develope just front-end
