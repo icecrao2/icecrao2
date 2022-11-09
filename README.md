@@ -1,6 +1,6 @@
 
 
-## Hi there I'm **front-end developer** using an React and Javascript👋
+Hi there I'm **front-end developer** using an React and Javascript👋
 
 
 <!--
