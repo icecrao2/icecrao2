@@ -1,4 +1,4 @@
-<img src="/github-프로필.jpg" />
+<img src="/프로필.jpg" />
 
 ### Hi there 👋
 
