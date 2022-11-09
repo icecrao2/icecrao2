@@ -1,4 +1,7 @@
+<img src="/github-프로필.jpg" />
+
 ### Hi there 👋
+
 
 <!--
 **icecrao2/icecrao2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
