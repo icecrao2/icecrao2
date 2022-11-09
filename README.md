@@ -2,7 +2,7 @@
 
 👋Hi there I'm **front-end developer** using an React and Javascript🌱
 
-## ⚡Skills
+<h1>⚡Skills</h1>
 
 - <strong>Platform & Language</strong>
 
