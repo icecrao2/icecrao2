@@ -5,7 +5,8 @@ sometimes I develope back-end(express, next, spring boot...) and mobile applicat
 
 😊 my hobby is programming 🤖 and reading book 📚 and traveling alone!
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
 
 ## ⚡Skills
 
