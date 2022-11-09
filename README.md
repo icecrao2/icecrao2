@@ -4,9 +4,9 @@
 
 ## ⚡Skills
 
-- Platform & Language
+- <strong>Platform & Language</strong>
 
-<img src="https://img.shields.io/badge/-React-green?style=flat-square&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white" /> <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML&logoColor=white" /><img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS&logoColor=white" /><img src="https://img.shields.io/badge/-Vue-green?style=flat-square&logo=Vue&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-green?style=flat-square&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white" />  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML&logoColor=white" />  <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS&logoColor=white" />  <img src="https://img.shields.io/badge/-Vue-green?style=flat-square&logo=Vue&logoColor=white" />
 
 
 <!--
