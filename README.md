@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header" />
 
 👋Hi there I'm **front-end developer** using an React and Javascript🌱
 sometimes I develope back-end(express, next, spring boot...) and mobile application(android studio, kotlin) but i love to develope just front-end
@@ -18,7 +19,6 @@ sometimes I develope back-end(express, next, spring boot...) and mobile applicat
 
 <img src="https://img.shields.io/badge/-firebase-green?style=flat-square&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-git-green?style=flat-square&logo=Git&logoColor=white" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text="Welcome!"&fontSize=90" />
 
 <!--
 **icecrao2/icecrao2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
