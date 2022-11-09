@@ -7,15 +7,14 @@ sometimes I develope back-end(express, next, spring boot...) and mobile applicat
 
 
 <div align=center>
-  <h3>⚡Skills</h3>
-  <br />
+  <h2>⚡SKILLS⚡</h2>
   <h3><strong>Platform & Language</strong></h3>
 
 <img src="https://img.shields.io/badge/-React-green?style=flat-square&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white" />  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html&logoColor=white" />  <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css&logoColor=white" />  <img src="https://img.shields.io/badge/-Vue-green?style=flat-square&logo=vue&logoColor=white" />
 
   <h3><strong>Tools</strong></h3>
 
-<img src="https://img.shields.io/badge/-firebase-green?style=flat-square&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-git-green?style=flat-square&logo=Git&logoColor=white" />
+<img src="https://img.shields.io/badge/-firebase-green?style=flat-square&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-git-green?style=flat-square&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/-aws-green?style=flat-square&logo=Aws&logoColor=white" />
 
 </div>
 
