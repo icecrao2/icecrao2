@@ -2,8 +2,10 @@
 
 👋Hi there I'm **front-end developer** using an React and Javascript🌱
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/-React-green?style=flat-square&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS&logoColor=white" />
 
 
 <!--
