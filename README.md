@@ -5,8 +5,7 @@ sometimes I develope back-end(express, next, spring boot...) and mobile applicat
 
 😊 my hobby is programming 🤖 and reading book 📚 and traveling alone!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
+
 
 ## ⚡Skills
 
@@ -20,6 +19,12 @@ sometimes I develope back-end(express, next, spring boot...) and mobile applicat
 
 <img src="https://img.shields.io/badge/-firebase-green?style=flat-square&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-git-green?style=flat-square&logo=Git&logoColor=white" />
 
+
+<br />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
+</div?
 
 <!--
 **icecrao2/icecrao2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
