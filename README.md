@@ -7,7 +7,10 @@ sometimes I develope back-end(express, next, spring boot...) and mobile applicat
 <br />
 I hope to make good website with good people!
 
-
+<a href="https://velog.io/@icecrao2" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-005571?style=flat-square&logo=Bloglovin&logoColor=white"/>
+</a>
+  
 <div align=center>
   <h2>⚡SKILLS⚡</h2>
   <h3><strong>✨Platform & Language✨</strong></h3>
