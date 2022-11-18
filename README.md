@@ -1,5 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jaewoong%20Github!&fontSize=90" />	
 
+
+<a href="https://velog.io/@icecrao2" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-005571?style=flat-square&logo=Bloglovin&logoColor=white"/>
+</a>
+
 👋Hi there I'm **front-end developer** using an React and Javascript🌱
 sometimes I develope back-end(express, next, spring boot...) and mobile application(android studio, kotlin) but i love to develope just front-end
 
@@ -7,9 +12,6 @@ sometimes I develope back-end(express, next, spring boot...) and mobile applicat
 <br />
 I hope to make good website with good people!
 
-<a href="https://velog.io/@icecrao2" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-005571?style=flat-square&logo=Bloglovin&logoColor=white"/>
-</a>
   
 <div align=center>
   <h2>⚡SKILLS⚡</h2>
