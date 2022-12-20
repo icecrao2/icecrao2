@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jaewoong%20Github!&fontSize=90" />	
 
-👋Hi there I'm **front-end developer** using an React and Javascript🌱
-sometimes I develope back-end(express, next, spring boot...) and mobile application(android studio, kotlin) but i love to develope just front-end
+👋Hi there I'm **UIS developer** using an Swift and SwiftUI🌱
 
 😊 my hobby is programming 🤖 and reading book 📚 and traveling alone!
 <br />
