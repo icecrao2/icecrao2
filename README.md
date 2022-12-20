@@ -17,6 +17,8 @@ I hope to make good website with good people!
   <h2>⚡SKILLS⚡</h2>
   <h3><strong>✨Platform & Language✨</strong></h3>
 
+<img src="https://img.shields.io/badge/-Swift-black?style=flat-square&logo=Swift&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-IOS-blue?style=flat-square&logo=IOS&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-React-green?style=flat-square&logo=React&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white" />  
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=Html&logoColor=white" />  
