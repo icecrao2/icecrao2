@@ -18,12 +18,10 @@ I hope to make good website with good people!
   <h3><strong>✨Platform & Language✨</strong></h3>
 
 <img src="https://img.shields.io/badge/-Swift-black?style=flat-square&logo=Swift&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-SwiftUI-red?style=flat-square&logo=SwiftUI&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-IOS-blue?style=flat-square&logo=IOS&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-React-green?style=flat-square&logo=React&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white" />  
-<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=Html&logoColor=white" />  
-<img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=Css&logoColor=white" />  
-<img src="https://img.shields.io/badge/-tailwind-green?style=flat-square&logo=Tailwind&logoColor=white" />
   <br />
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
@@ -34,6 +32,7 @@ I hope to make good website with good people!
   
   <h3><strong>🛠Tools🛠</strong></h3>
 
+<img src="https://img.shields.io/badge/XCode-181717?style=flat&logo=XCode&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 <img src="https://img.shields.io/badge/-firebase-green?style=flat-square&logo=Google&logoColor=white" /> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
