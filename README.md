@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jaewoong%20Github!&fontSize=90" />	
 
-👋Hi there I'm **UIS developer** using an Swift and SwiftUI🌱
+👋Hi there I'm **IOS developer** using an Swift and SwiftUI🌱
 
 😊 my hobby is programming 🤖 and reading book 📚 and traveling alone!
 <br />
