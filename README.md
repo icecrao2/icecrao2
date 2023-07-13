@@ -10,6 +10,12 @@ Contact, +82)010-4079-5076
 <br />
 Email, icecrao2@icloud.com
 
+The app I released
+1. The Spirokit
+https://apps.apple.com/kr/app/the-spirokit-%EB%8D%94%EC%8A%A4%ED%94%BC%EB%A1%9C%ED%82%B7-%EA%B8%B0%EA%B4%80%EC%9A%A9/id6447285553
+2. PennyWise
+https://apps.apple.com/kr/app/simple-penny/id6450182671
+
 <div align=center>
    <h2👋PAGE👋</h2> 
   <a href="https://velog.io/@icecrao2" target="_blank">
