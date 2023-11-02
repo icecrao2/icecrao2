@@ -21,7 +21,12 @@ https://apps.apple.com/kr/app/%EB%B2%BD%EB%8F%8C-%EA%B9%A8%EA%B8%B0-brick-breake
 https://apps.apple.com/kr/app/2048-brain-numbers-puzzle-game/id6467491843
 
 Career <br />
-TR) 2023.01.01 ~ 
+1. 티알(TR) <br />
+- 재직: 2023.01.01 ~ <br />
+- 담당 업무: iOS 개발자
+   - The Spirokit (폐기능 검사기) 출시   
+
+
 
 <div align=center>
    <h2👋PAGE👋</h2> 
