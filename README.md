@@ -24,7 +24,7 @@ Career <br />
 1. 티알(TR) 
 - 재직: 2023.01.01 ~ <br />
 - 담당 업무: iOS 개발자
-   - The Spirokit (폐기능 검사기) 출시   
+   - The Spirokit (폐기능 검사 앱) iOS 개발 담당   
 
 
 
