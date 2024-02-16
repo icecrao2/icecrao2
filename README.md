@@ -23,8 +23,9 @@ https://apps.apple.com/kr/app/2048-brain-numbers-puzzle-game/id6467491843
 Career <br />
 1. 티알(TR) 
 - 재직: 2023.01.01 ~ <br />
-- 담당 업무: iOS 개발자
-   - The Spirokit (폐기능 검사 앱) iOS 개발 담당   
+- 담당 업무: iOS 개발자, 크로스플랫폼 개발자(Flutter)
+   - The Spirokit (폐기능 검사 앱) iOS 개발 담당
+   - The Spirokit Personal (개인용 폐기능 검사 앱) 어플리케이션 개발 담당
 
 
 
