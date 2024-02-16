@@ -40,16 +40,9 @@ Career <br />
 
 <img src="https://img.shields.io/badge/-Swift-black?style=flat-square&logo=Swift&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-SwiftUI-red?style=flat-square&logo=SwiftUI&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-IOS-blue?style=flat-square&logo=IOS&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-React-green?style=flat-square&logo=React&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white" />  
-  <br />
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
-<img src="https://img.shields.io/badge/-Vue-green?style=flat-square&logo=vue&logoColor=white" />
-<img src="https://img.shields.io/badge/-Java-green?style=flat-square&logo=Java&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-C-green?style=flat-square&logo=C&logoColor=white" />
+<img src="https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-IOS-blue?style=flat-square&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Vue-green?style=flat-square&logo=Vue&logoColor=white" />
   
   <h3><strong>🛠Tools🛠</strong></h3>
 
