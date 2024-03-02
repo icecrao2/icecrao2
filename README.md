@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jaewoong%20Github!&fontSize=90" />	
 
-👋Hi there I'm **IOS developer** using an Swift and SwiftUI🌱
+👋Hi there I'm **IOS developer / Cross Platform developer** using an Swift,SwiftUI, Flutter🌱
 
 😊 my hobby is programming 🤖 and reading book 📚 and traveling alone!
 <br />
-I hope to make good website with good people!
+I hope to make good application with good people!
 
 Contact, +82)010-4079-5076
 <br />
@@ -25,7 +25,7 @@ Career <br />
 - 재직: 2023.01.01 ~ <br />
 - 담당 업무: iOS 개발자, 크로스플랫폼 개발자(Flutter)
    - The Spirokit (폐기능 검사 앱) iOS 개발 담당
-   - The Spirokit Personal (개인용 폐기능 검사 앱) 어플리케이션 개발 담당
+   - The Spirokit Personal (개인용 폐기능 검사 앱) 크로스 플랫폼 어플리케이션 개발 담당
 
 
 
