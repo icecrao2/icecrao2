@@ -26,6 +26,7 @@ Career <br />
 - 담당 업무: iOS 개발자, 크로스플랫폼 개발자(Flutter)
    - The Spirokit (폐기능 검사 앱) iOS 개발 담당
    - The Spirokit Personal (개인용 폐기능 검사 앱) 크로스 플랫폼 어플리케이션 개발 담당
+   - The Neb (네블라이저 사용 관리 앱) 크로스 플랫폼 어플리케이션 개발 담당
 
 
 
