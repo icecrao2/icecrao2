@@ -32,6 +32,8 @@ Career <br />
 
 <div align=center>
    <h2👋PAGE👋</h2> 
+
+   Welcome to my blog!! <br />
   <a href="https://velog.io/@icecrao2" target="_blank">
     <img src="https://img.shields.io/badge/Blog-005571?style=flat-square&logo=Bloglovin&logoColor=white"/>
   </a>
