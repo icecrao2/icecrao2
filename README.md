@@ -19,6 +19,10 @@ https://apps.apple.com/kr/app/simple-penny/id6450182671
 https://apps.apple.com/kr/app/%EB%B2%BD%EB%8F%8C-%EA%B9%A8%EA%B8%B0-brick-breaker-%EB%B2%BD%EB%8F%8C-%EA%B9%A8%EA%B8%B0/id6468353150
 4. 2048 Puzzle <br />
 https://apps.apple.com/kr/app/2048-brain-numbers-puzzle-game/id6467491843
+5. The Spirokit 가정용 <br />
+https://apps.apple.com/kr/app/the-spirokit-%EB%8D%94%EC%8A%A4%ED%94%BC%EB%A1%9C%ED%82%B7-%EA%B0%80%EC%A0%95%EC%9A%A9/id6478911950
+6. The Neb
+https://apps.apple.com/kr/app/the-neb-%EB%84%A4%EB%B8%94%EB%9D%BC%EC%9D%B4%EC%A0%80-%EC%82%AC%EC%9A%A9-%EA%B4%80%EB%A6%AC/id6502800342
 
 Career <br />
 1. 티알(TR) 
